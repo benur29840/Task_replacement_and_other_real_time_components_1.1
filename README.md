@@ -1,4 +1,4 @@
-# Task_replacement_and_other_real_time_components_1.1
+# Task replacement and_other real time components
 
 C++ components for real time applications especialy task.h
 
