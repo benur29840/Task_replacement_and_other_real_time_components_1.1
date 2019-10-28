@@ -1,6 +1,6 @@
 # Task replacement and other real time components
 
-C++ components for real time applications especialy task.h (code C++)
+C++ components for real time applications especialy task.h
 
 classes : task mutex listOfPointers and a sample of use 
 
