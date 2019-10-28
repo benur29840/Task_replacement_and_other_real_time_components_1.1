@@ -2,6 +2,6 @@
 Components for real time applications
 classes : task mutex listOfPointers and a sample of use 
 
-for any system
+for any system : sample is a Windows Visual one but the classes were tested on linux
 
 task uses thread instead
